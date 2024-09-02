@@ -1,0 +1,15 @@
+{
+  "max_bin": 69,
+  "num_leaves": 450,
+  "min_data_in_leaf": 3,
+  "min_sum_hessian_in_leaf": 0.0015030227799516709,
+  "bagging_fraction": 0.8504416977852954,
+  "bagging_freq": 98,
+  "feature_fraction": 0.15243184644927762,
+  "lambda_l1": 0.7524742793810472,
+  "lambda_l2": 1.5427985425356778,
+  "min_gain_to_split": 5.759646379884474,
+  "max_depth": 89,
+  "extra_trees": true,
+  "path_smooth": 0
+}
