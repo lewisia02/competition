@@ -1,0 +1,1 @@
+{"max_depth": 13, "subsample": 0.95, "n_estimators": 9700, "eta": 0.02, "reg_alpha": 1, "reg_lambda": 5, "min_child_weight": 4, "colsample_bytree": 0.1325244159060087, "objective": "binary:logistic"}

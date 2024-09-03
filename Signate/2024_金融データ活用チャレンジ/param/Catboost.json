@@ -1,0 +1,1 @@
+{"depth": 8, "learning_rate": 0.03503018979572749, "subsample": 0.9100379101775965, "colsample_bylevel": 0.8746461895596387, "min_data_in_leaf": 92, "random_strength": 0, "bagging_temperature": 0.03715117560967184, "iterations": 10000, "random_seed": 42}
